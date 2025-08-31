@@ -6,7 +6,7 @@
 
 -   `google_search_agent/`: โฟลเดอร์ที่เก็บโค้ดของ agent
     -   `__init__.py`: ทำให้ `google_search_agent` เป็น Python package
-    -   `agent.py`: โค้dหลักของ agent ที่มีการเรียกใช้ `google_search` tool
+    -   `agent.py`: โค้ดหลักของ agent ที่มีการเรียกใช้ `google_search` tool
     -   `.env`: ไฟล์สำหรับเก็บค่า `GOOGLE_API_KEY`
 
 ## การทำงาน
